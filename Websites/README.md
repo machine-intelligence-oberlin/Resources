@@ -8,6 +8,7 @@
 * [Research](#Research)
 * [Industry](#Industry)
 * [Education](#Education)
+* [Students](#Students)
 
 ---
 
@@ -43,3 +44,8 @@
 ### Education
 
 - [Towards Data Science](https://towardsdatascience.com/)
+
+### Students
+
+- [Max Kramer](http://www.mkramerpsych.com)
+- [Trevor Martin](trevormartin.info)
