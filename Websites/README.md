@@ -45,6 +45,7 @@
 ### Education
 
 - [Towards Data Science](https://towardsdatascience.com/)
+- [GAN Lab](https://poloclub.github.io/ganlab/)
 
 ### Students
 
