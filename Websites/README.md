@@ -9,6 +9,7 @@
 * [Industry](#Industry)
 * [Education](#Education)
 * [Blogs](#Blogs)
+* [Labs](#Labs)
 * [Students](#Students)
 * [Databases](#Databases)
 
