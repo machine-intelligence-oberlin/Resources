@@ -8,6 +8,7 @@
 * [Research](#Research)
 * [Industry](#Industry)
 * [Education](#Education)
+* [Blogs](#Blogs)
 * [Students](#Students)
 * [Databases](#Databases)
 
@@ -46,6 +47,22 @@
 
 - [Towards Data Science](https://towardsdatascience.com/)
 - [GAN Lab](https://poloclub.github.io/ganlab/)
+
+---
+
+### Blogs
+
+- [Andrew Trask](https://iamtrask.github.io/)
+- [Ian Goodfellow](https://www.iangoodfellow.com/)
+- [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
+
+---
+
+### Labs
+
+- [Vector Institute](https://vectorinstitute.ai/)
+
+---
 
 ### Students
 
