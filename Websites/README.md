@@ -57,6 +57,7 @@
 - [Ian Goodfellow](https://www.iangoodfellow.com/)
 - [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
 - [Andreas Kirsch](https://www.blackhc.net/)
+- [Rodney Brooks](https://people.csail.mit.edu/brooks/)
 
 ---
 
