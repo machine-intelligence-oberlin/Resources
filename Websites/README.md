@@ -60,6 +60,7 @@
 - [Rodney Brooks](https://people.csail.mit.edu/brooks/)
 - [Terry Tao](https://terrytao.wordpress.com/)
 - [François Chollet](https://fchollet.com/)
+- [Paul Graham](http://paulgraham.com/articles.html)
 
 ---
 
